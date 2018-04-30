@@ -108,6 +108,7 @@ text-align: center;
   flex-direction:column;
   justify-content:space-around;;
   align-items: center;
+  opacity:1;
 
 }
 .locations{
